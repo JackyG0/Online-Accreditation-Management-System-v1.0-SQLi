@@ -5,7 +5,7 @@
 [Vendor](https://itsourcecode.com/author/adonesevangelista/)
 ---
 
-![image-20220527131251530](README.assets/image-20220527131251530.png)
+![image-20220527131251530](png01.png)
 
 
 ### Description:
@@ -47,15 +47,14 @@ Connection: close
 USERNAME=ff%E9%8E%88%27%22%5C%28&PASS=ff
 ```
 
-![image-20220527130646216](README.assets/image-20220527130646216.png)
 
 ### In action:
 
 ---
 
-![image-20220527130708845](README.assets/image-20220527130708845.png)
+![image-20220527130708845](png02.png)
 
-![image-20220527131145577](README.assets/image-20220527131145577.png)
+![image-20220527131145577](png03.png)
 
 
 ### Proof and Exploit:
